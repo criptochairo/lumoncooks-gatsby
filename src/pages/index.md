@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Consultorio de Especialidades Visuales
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Lentes de Contacto Esclerales
+subheading: ""
 mainpitch:
   title: Why Kaldi
   description: >
