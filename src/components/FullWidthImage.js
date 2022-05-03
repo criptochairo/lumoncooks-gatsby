@@ -41,11 +41,11 @@ export default function FullWidthImage(props) {
           <GatsbyImage
             image={img}
             objectFit={"cover"}
-            objectPosition={imgPosition}
+            fadeIn = {true}
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
-              maxHeight: height,
+              maxHeight: "500px",
             }}
             layout="fullWidth"
             // You can optionally force an aspect ratio for the generated image
@@ -69,14 +69,15 @@ export default function FullWidthImage(props) {
             {/* Any content here will be centered in the component */}
             {title && (
               <h1
-                className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+                className="has-text-weight-bold"
                 style={{
                   boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(255, 68, 0)",
+                    "none",
+                  backgroundColor: "rgba(142, 70, 255, 0.8)",
                   color: "white",
                   lineHeight: "1",
                   padding: "0.25em",
+                  fontSize: "4em"
                 }}
               >
                 {title}

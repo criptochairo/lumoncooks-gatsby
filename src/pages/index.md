@@ -1,11 +1,14 @@
 ---
 templateKey: index-page
 title: Consultorio de Especialidades Visuales
-image: /img/home-jumbotron.jpg
+image: /img/contact-lens-cover.jpg
 heading: Consultorio de optometría avanzada
-subheading: ""
+subheading:  
+    Consultorio de Especialidades Visuales está enfocado en la atención personalizada de cualquier caso visual. 
+    Contamos con un equipo multidisciplinario que le dedicará el tiempo necesario a cada situación.
+    Los pilares de nuestro trabajo son honestidad y calidad. Cada proceso que se realiza es ampliamente explicado, ofreciendo una perspectiva global de todos los recursos utilizados.
 mainpitch:
-  title: Why Kaldi
+  title: Contáctanos
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -18,19 +21,19 @@ description: >
 intro:
   title: Beneficios de atenderse con nosotros
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/eye-doctor.jpg
       title: Personal altamente capacitado
       text: >
         Nuestro personal se encuentra en constante actualización de acuerdo a los estándares nacionales e internacionales, aprendiendo las prácticas mas recientes que la tecnología puede ofrecer.
-    - image: /img/coffee.png
+    - image: /img/eye-contact-girl.jpg
       title: Lentes de contacto de alta especialidad
       text: >
         Para casos especiales de queratocono, trasplantes de córnea, ojo seco, graduaciones altas. Todos con la posibilidad de ser bifocales o multifocales.
-    - image: /img/coffee.png
+    - image: /img/girl-with-glasses.jpg
       title: Personalización de lentes
       text: >
         La personalización se logra usando sensores especiales, los cuales, son colocados en los lentes del paciente donde registrarán los micro-movimientos oculares, toda esta información es procesada junto con la graduación del paciente, creando así los lentes 100% personalizados.
-    - image: /img/coffee.png
+    - image: /img/personalized-glasses.jpg
       title: Catálogo de armazones
       text: >
         Los armazones son seleccionados de acuerdo a la cara del paciente, considerando el tamaño y forma de la nariz, la separación entre sus ojos, la forma de la ceja y de la cara.

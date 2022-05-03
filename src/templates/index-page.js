@@ -7,6 +7,7 @@ import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
+import girlGlasses from "../img/girl-with-glasses.jpg";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -22,29 +23,40 @@ export const IndexPageTemplate = ({
 
   return (
     <div>
-      <FullWidthImage img={heroImage} title={title} subheading={subheading} />
+      <FullWidthImage img={heroImage} title="Lentes de contacto esclerales" />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="content">
-                  <div className="content">
-                    <div className="tile">
+                  
+                  <div className="columns">
+                    <div className="column is-6 has-text-left is-size-3">
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
-                    <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
+                    <div className="column is-6 has-text-centered is-offset-1 is-size-1">
+                      <Link className="btn is-size-3" to="/contact" >
+                        Llamar
+                      </Link>
                     </div>
                   </div>
+
                   <div className="columns">
-                    <div className="column is-12">
+                    <div className="column is-8">
+                      <img src={girlGlasses} alt="#" className="column is-12"/>
+                    </div>
+                    <div className="column is-4">
                       <h3 className="has-text-weight-semibold is-size-2">
                         {heading}
                       </h3>
                       <p>{description}</p>
+                      <a className="btn" to="/about">
+                        Información Detallada
+                      </a>
                     </div>
                   </div>
+
                   <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
