@@ -1,7 +1,8 @@
 import React from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo2.png";
+import whatsapp from "../img/whatsapp.png";
+import phone from "../img/phone.png";
+import logo from "../img/glasses.jpg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -64,31 +65,44 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
+              <Link className="navbar-item" to="/">
+                Home
+              </Link>
               <Link className="navbar-item" to="/about">
-                About
+                Nosotros
               </Link>
               <Link className="navbar-item" to="/products">
-                Products
-              </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
+                Lentes Esclerales
               </Link>
               <Link className="navbar-item" to="/contact">
-                Contact
+                Contacto
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
+              <Link className="navbar-item" to="/blog" style={{display: "none"}}>
+                Blog
+              </Link>
+              <Link className="navbar-item" to="/contact/examples" style={{display: "none"}}>
                 Form Examples
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+                href="https://wa.me/525563327093"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={github} alt="Github" />
+                  <img src={whatsapp} alt="Whatsapp" />
+                </span>
+              </a>
+              <a
+                className="navbar-item"
+                href="tel:525563327093"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={phone} alt="Phone" />
                 </span>
               </a>
             </div>

@@ -1,23 +1,13 @@
 import * as React from "react";
 import { Link } from "gatsby";
 
-import logo from "../img/logo.svg";
-import facebook from "../img/social/facebook.svg";
-import instagram from "../img/social/instagram.svg";
-import twitter from "../img/social/twitter.svg";
-import vimeo from "../img/social/vimeo.svg";
+import whatsapp from "../img/whatsapp.png";
+import phone from "../img/phone.png";
 
 const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
-          <img
-            src={logo}
-            alt="Kaldi"
-            style={{ width: "14em", height: "10em" }}
-          />
-        </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div style={{ maxWidth: "100vw" }} className="columns">
@@ -31,17 +21,28 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        About
+                        Nosotros
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
+                        Lentes Esclerales
+                      </Link>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+              <div className="column is-4">
+                <section className="menu">
+                  <ul className="menu-list">
+                    <li>
+                      <Link className="navbar-item" to="/contact">
+                        Contacto
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                      <Link className="navbar-item" to="/blog" style={{display: "none"}}>
+                        Blog
                       </Link>
                     </li>
                     <li>
@@ -57,52 +58,36 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
-                    </li>
-                  </ul>
-                </section>
-              </div>
               <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com">
                   <img
-                    src={facebook}
-                    alt="Facebook"
+                    src={whatsapp}
+                    alt="Whatsapp"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="facebook" href="tel:525563327093">
                   <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
+                    src={phone}
+                    alt="Phone"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a>
-                <a title="vimeo" href="https://vimeo.com">
-                  <img
-                    src={vimeo}
-                    alt="Vimeo"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a>
+              </div>
+            </div>
+            <br />
+            <div className="columns">
+              <div className="column is-12 has-text-centered is-size-6">
+                Estamos ubicados en <address>Calle Antigua Taxqueña #148, Col. Parque San Andrés. Coyoacán. CDMX</address><br />
+                <span>Teléfonos</span><br />
+                <a href="tel:525563327093">55 63 32 70 93</a><br />
+                <a href="tel:525562375629">55 62 37 56 29</a><br /><br />
+                
+                © {new Date().getFullYear()}, Built with
+                {` `}
+                <a href="https://www.gatsbyjs.com">Gatsby</a><br />
+                Icons & images made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a><br />
+                Website by <a href="https://github.com/criptochairo" title="GithubProfile">Criptochairo</a>
               </div>
             </div>
           </div>

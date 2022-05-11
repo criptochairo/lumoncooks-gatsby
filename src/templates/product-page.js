@@ -3,11 +3,11 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
-import Features from "../components/Features";
-import Testimonials from "../components/Testimonials";
 import Pricing from "../components/Pricing";
-import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
+import { Link } from "gatsby";
+import Alex1 from "../img/alex.jpg";
+import Alex2 from "../img/alex.jpeg";
 
 // eslint-disable-next-line
 export const ProductPageTemplate = ({
@@ -17,7 +17,6 @@ export const ProductPageTemplate = ({
   description,
   intro,
   main,
-  testimonials,
   fullImage,
   pricing,
 }) => {
@@ -30,15 +29,15 @@ export const ProductPageTemplate = ({
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
-            <div className="columns">
+            {/* <div className="columns">
               <div className="column is-7 is-offset-1">
                 <h3 className="has-text-weight-semibold is-size-2">
                   {heading}
                 </h3>
                 <p>{description}</p>
               </div>
-            </div>
-            <div className="columns">
+            </div> */}
+            {/* <div className="columns">
               <div className="column is-10 is-offset-1">
                 <Features gridItems={intro.blurbs} /> 
                 <div className="columns">
@@ -70,9 +69,92 @@ export const ProductPageTemplate = ({
                     </div>
                   </div>
                 </div>
-                <Testimonials testimonials={testimonials} />
               </div>
-            </div>
+            </div> */}
+            <div className="columns"> 
+                  <div className="column is 6 has-text-justified">
+                    <h2 style={{color: "#9155A7"}} className="is-size-2" >Lentes Esclerales</h2>
+                    <h3 style={{color: "#9155A7"}} className="is-size-4 has-text-weight-light">Lentes de contacto esclerales precio México</h3>
+                    <p className="is-size-5 has-text-justified">Los lentes de contacto esclerales son una de las opciones más cómodas y eficientes en el tratamiento no quirúrgico del queratocono. Estos lentes reposan sobre la esclera (parte blanca del ojo) volviéndose inmóviles mientras se usan, lo que brinda la sensación de libertad y comodidad en todos los movimientos oculares.
+                    <br /><br />
+                    <strong>El precio de cada lente depende del caso específico.</strong> Cosas que pueden influir en el costo son: el tipo de problema, ojo seco, uso de computadora, cirugías glaucoma, entre otras.</p>
+                    <br /><br />
+                    <div className="column is 6 has-text-centered">
+                      <Link className="btn is-size-3" href="tel:525563327093" >
+                          Llamar
+                      </Link>
+                    </div>
+                  </div>
+
+                  <div className="column is 6 has-text-centered">
+                    <img src={Alex1} alt="#" />
+                  </div>
+              </div>
+
+              <br /><br />
+
+              <div className="columns">
+                <div className="column is 6 has-text-centered">
+                  <img src={Alex2} alt="#" />
+                </div>
+                
+                <div className="column is 6 has-text-centered">
+                    <h2 style={{color: "#9155A7"}} className="is-size-2" >Lentes esclerales para queratocono</h2>
+                    <p className="is-size-5 has-text-justified" >La principal indicación para estos lentes son deformaciones corneales, como el <strong>queratocono</strong>. Esta es una enfermedad en la que la córnea se deforma y adelgaza provocando que se distorsione la visión.
+                    <br /><br />
+                    También se indican en casos de trasplantes de córnea, degeneraciones marginales, cirugías de graduación fallidas o en casos de ojo seco, miopía, hipermetropía, astigmatismo y vista cansada.
+                    </p>
+                    <div className="column is 6 has-text-centered">
+                      <Link className="btn is-size-3" href="tel:525563327093" >
+                          Llamar
+                      </Link>
+                    </div>
+                </div>
+              </div>
+
+              <br /><br />
+
+              <div className="columns"> 
+                  <div className="column is 6 has-text-justified">
+                  <h2 style={{color: "#9155A7"}} className="is-size-2" >Lentes esclerales CDMX</h2>
+                    <p className="is-size-5 has-text-justified">En Especialidades Visuales, la adaptación de estos lentes es personalizada para cada paciente, donde consideramos la severidad del caso, actividades y entorno. Trabajamos con la tecnología mas actualizada, además de estar en constante capacitación con el objetivo de satisfacer las necesidades que cada caso requiera.
+                    <br /><br />
+                    Para información detallada, con gusto le atenderemos en los teléfonos de contacto o puede dejarnos un mensaje en <Link to="/contact">este formato</Link>.
+                    </p>
+                    <div className="column is 6 has-text-centered">
+                    <Link className="btn is-size-3" href="tel:525563327093" >
+                        Llamar
+                    </Link>
+                    </div>
+                  </div>
+
+                  <div className="column is 6 has-text-centered">
+                    <img src={Alex1} alt="#" />
+                  </div>
+              </div>
+
+              <br /><br />
+
+              <div className="columns">
+                <div className="column is 6 has-text-centered">
+                  <img src={Alex2} alt="#" />
+                </div>
+                
+                <div className="column is 6 has-text-centered">
+                    <h2 style={{color: "#9155A7"}} className="is-size-2" >Complicaciones con lentes esclerales</h2>
+                    <p className="is-size-5 has-text-justified" >Las principales <strong>complicaciones con lentes esclerales</strong> son consecuencia de la falta de oxigenación que producen y/o la resequedad de los materiales, lo cual, afectará la visión mientras se usan.
+                    <br /><br />
+                    La mayoría de estos problemas pueden ser fácilmente solucionados con la atención y prevención adecuadas.
+                    <br /><br />
+                    Si ya es usuario de lentes de esclerales y tiene alguno de estos problemas, u otro no mencionado, con gusto le podemos brindar asesoría en los teléfonos de contacto. o a través de mensajes en el chat.
+                    </p>
+                    <div className="column is 6 has-text-centered">
+                    <Link className="btn is-size-3" href="tel:525563327093" >
+                        Llamar
+                    </Link>
+                    </div>
+                  </div>
+              </div>
           </div>
         </div>
       </section>

@@ -71,33 +71,34 @@ export default function FullWidthImage(props) {
               <h1
                 className="has-text-weight-bold"
                 style={{
-                  boxShadow:
-                    "none",
-                  backgroundColor: "rgba(142, 70, 255, 0.8)",
+                  boxShadow: "0.5rem 0 0 rgba(142, 70, 255, 0.7), -0.5rem 0 0 rgba(142, 70, 255, 0.7)",
+                  backgroundColor: "rgba(142, 70, 255, 0.7)",
                   color: "white",
                   lineHeight: "1",
                   padding: "0.25em",
-                  fontSize: "4em"
+                  fontSize: "3em",
+                  borderRadius: ".25rem"
                 }}
               >
                 {title}
               </h1>
             )}
             {subheading && (
-              <h3
+              <h2
                 className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
                 style={{
                   boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(255, 68, 0)",
+                    "rgba(142, 70, 255, 0.7) 0.5rem 0px 0px, rgba(142, 70, 255, 0.7) -0.5rem 0px 0px",
+                  backgroundColor: "rgba(142, 70, 255, 0.7)",
                   color: "white",
-                  lineHeight: "1",
+                  lineHeight: "1.5",
                   padding: "0.25rem",
                   marginTop: "0.5rem",
+                  borderRadius: ".25rem"
                 }}
               >
                 {subheading}
-              </h3>
+              </h2>
             )}
           </div>
         )}
