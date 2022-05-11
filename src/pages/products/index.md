@@ -80,7 +80,7 @@ testimonials:
       Tengo problema en mi vista a causa del queratocono, anteriormente ya había visitado otros doctores pero no cumplían con mi espectativa de mejorar mi visión, hasta que llegue hace tres años con el Doctor Alejandro y fue el quien me realizó estudios completos para identificar que tipo de lente de contacto requería, y hasta el momento estoy muy contento ya que mejoro muchísimo mi visión y mi calidad de vida.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Costos
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each

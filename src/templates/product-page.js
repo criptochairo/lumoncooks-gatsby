@@ -6,8 +6,11 @@ import Layout from "../components/Layout";
 import Pricing from "../components/Pricing";
 import FullWidthImage from "../components/FullWidthImage";
 import { Link } from "gatsby";
-import Alex1 from "../img/alex.jpg";
-import Alex2 from "../img/alex.jpeg";
+import products1 from "../img/products1.jpg";
+import products2 from "../img/products2.jpeg";
+import products3 from "../img/products3.jpeg";
+import products4 from "../img/products4.jpg";
+
 
 // eslint-disable-next-line
 export const ProductPageTemplate = ({
@@ -87,15 +90,15 @@ export const ProductPageTemplate = ({
                   </div>
 
                   <div className="column is 6 has-text-centered">
-                    <img src={Alex1} alt="#" />
+                    <img src={products1} alt="#" className="productimg" />
                   </div>
               </div>
 
-              <br /><br />
+              <br /><br /><br />
 
               <div className="columns">
                 <div className="column is 6 has-text-centered">
-                  <img src={Alex2} alt="#" />
+                  <img src={products2} alt="#" className="productimg" />
                 </div>
                 
                 <div className="column is 6 has-text-centered">
@@ -112,7 +115,7 @@ export const ProductPageTemplate = ({
                 </div>
               </div>
 
-              <br /><br />
+              <br /><br /><br />
 
               <div className="columns"> 
                   <div className="column is 6 has-text-justified">
@@ -129,15 +132,15 @@ export const ProductPageTemplate = ({
                   </div>
 
                   <div className="column is 6 has-text-centered">
-                    <img src={Alex1} alt="#" />
+                    <img src={products3} alt="#" className="productimg" />
                   </div>
               </div>
 
-              <br /><br />
+              <br /><br /><br />
 
               <div className="columns">
                 <div className="column is 6 has-text-centered">
-                  <img src={Alex2} alt="#" />
+                  <img src={products4} alt="#" className="productimg" />
                 </div>
                 
                 <div className="column is 6 has-text-centered">
@@ -158,7 +161,7 @@ export const ProductPageTemplate = ({
           </div>
         </div>
       </section>
-      <FullWidthImage img={fullWidthImage} imgPosition={"bottom"} />
+      {/* <FullWidthImage img={fullWidthImage} imgPosition={"bottom"} />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -173,7 +176,7 @@ export const ProductPageTemplate = ({
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 };

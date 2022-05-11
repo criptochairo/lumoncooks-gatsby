@@ -79,9 +79,8 @@ const Footer = class extends React.Component {
             <div className="columns">
               <div className="column is-12 has-text-centered is-size-6">
                 Estamos ubicados en <address>Calle Antigua Taxqueña #148, Col. Parque San Andrés. Coyoacán. CDMX</address><br />
-                <span>Teléfonos</span><br />
-                <a href="tel:525563327093">55 63 32 70 93</a><br />
-                <a href="tel:525562375629">55 62 37 56 29</a><br /><br />
+                <span>Teléfono</span><br />
+                <a href="tel:525563327093">55 63 32 70 93</a><br /><br />
                 
                 © {new Date().getFullYear()}, Built with
                 {` `}

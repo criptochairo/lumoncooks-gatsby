@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Consultorio de Especialidades Visuales",
     description:
-      "Lentes de contacto esclerales. Examen para la vista. Lentes esclerales CDMX.",
+      "Lentes esclerales CDMX. Lentes de contacto esclerales. Examen para la vista.",
     siteUrl: `https://especialidadesvisuales.com/`,
   },
   plugins: [
