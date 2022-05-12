@@ -44,7 +44,7 @@ export default class BlogIndexPage extends React.Component {
                     <img src={whatsapp} alt="#" />
                   </Link> 
                   <div className="column is 6 has-text-justified">
-                    <h2 style={{color: "#58b48d"}} className="is-size-2" >Alejandro Rodríguez Mercado</h2>
+                    <h2 style={{color: "#58b48d"}} className="is-size-2 has-text-centered" >Alejandro Rodríguez Mercado</h2>
                     <h3 className="is-size-3">Contactólogo especialista en queratocono</h3>
                     <p className="is-size-5 has-text-justified">El licenciado Alejandro es optometrista egresado del Instituto Politécnico Nacional. Siendo estudiante fomentó el desarrollo de la investigación, trabajando directamente en proyectos sobre los cambios en la calidad visual y en la percepción al color en diabéticos, con los cuales realizó su tesis de grado. Ced. Prof: 11204056
                     <br /><br />
@@ -75,8 +75,8 @@ export default class BlogIndexPage extends React.Component {
                   <img src={Alex2} alt="#" />
                 </div>
                 
-                <div className="column is 6 has-text-centered">
-                    <h2 style={{color: "#58b48d"}} className="is-size-2" >Alejandro Ordoñez Campos</h2>
+                <div className="column is 6 has-text-justified">
+                    <h2 style={{color: "#58b48d"}} className="is-size-2 has-text-centered" >Alejandro Ordoñez Campos</h2>
                     <h3 className="is-size-3">Médico cirujano egresado de la Facultad Mexicana de Medicina, Universidad La Salle.</h3>
                     <p className="is-size-5" >Realizó su Especialidad en Medicina como Cirujano Oftalmólogo en el Instituto de Oftalmología Conde de Valenciana, al igual que su Alta Especialidad en Glaucoma; avaladas por la Universidad Nacional Autónoma de México (UNAM).
                     <br /><br />
