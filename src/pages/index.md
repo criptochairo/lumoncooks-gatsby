@@ -24,7 +24,7 @@ intro:
     - image: /img/eye-doctor.jpg
       title: Personal altamente capacitado
       text: >
-        Nuestro personal se encuentra en constante actualización de acuerdo a los estándares nacionales e internacionales, aprendiendo las prácticas mas recientes que la tecnología puede ofrecer.
+        Nuestro personal se encuentra en constante actualización de acuerdo a los estándares nacionales e internacionales, aprendiendo las prácticas más recientes que la tecnología puede ofrecer.
     - image: /img/eye-contact-girl.jpg
       title: Lentes de contacto de alta especialidad
       text: >

@@ -162,11 +162,11 @@ export const IndexPageTemplate = ({
                         <img src={testimonial1} alt="#"></img>
                       </div>
                         <h3 style={{color: "#D886F7"}} className="is-size-2">Ana Laura</h3>
-                        <p className="is-size-5 has-text-weight-light"><i>"Hace casi once años me detectaron Queratocono; no tenía idea que era eso, lamentablemente era una situación muy compleja ya a mi ojo izquierdo le tuvieron que trasplantar la córnea... con el tiempo mi ojo a pasado por procesos difíciles pero sigue con vida, el derecho aún sigue con su misma córnea. 
+                        <p className="is-size-5 has-text-weight-light"><i>"Hace casi once años me detectaron Queratocono; no tenía idea que era eso, lamentablemente era una situación muy compleja ya a mi ojo izquierdo le tuvieron que trasplantar la córnea... con el tiempo mi ojo ha pasado por procesos difíciles pero sigue con vida, el derecho aún sigue con su misma córnea. 
                         <br /><br />
-                        Tuve la gran oportunidad de contactar al doctor Rodríguez ya que andaba en busca de lentes Esclerales que son muy difíciles de encontrar ya que son especiales para córneas deformes como las mías; desde el momento que pude comunicarme con él me dio la absoluta confianza para poder explicar ampliamente mi problema, se dio el tiempo para escucharme y decirme detalle por detalle cual es el proceso del uso de los lentes, no hizo falta buscar más, aquí estoy feliz con su atención del doctor. estoy en proceso de adaptación de lente Escleral en el ojo derecho; en ojo izquierdo me dio otra opción muy favorable ya que no se pudo adaptar el Escleral por problemas de inflamación en el mismo.
+                        Tuve la gran oportunidad de contactar al doctor Rodríguez ya que andaba en busca de lentes Esclerales que son muy difíciles de encontrar ya que son especiales para córneas deformes como las mías; desde el momento que pude comunicarme con él me dio la absoluta confianza para poder explicar ampliamente mi problema, se dio el tiempo para escucharme y decirme detalle por detalle cuál es el proceso del uso de los lentes, no hizo falta buscar más, aquí estoy feliz con su atención del doctor. Estoy en proceso de adaptación de lente Escleral en el ojo derecho; en ojo izquierdo me dio otra opción muy favorable ya que no se pudo adaptar el Escleral por problemas de inflamación en el mismo.
                         <br /><br />
-                        Les puedo decir que me ha cambiado mi vida por completo ya que el lente es súper cómodo no se siente a pesar de mi córnea deforme y veo excelentemente, se ha adaptado muy bien gracias a su excelente trabajo y atención del doctor, doy gracias a Dios por estar mucho mejor y lograr ver todo lo que ya no podía percibir."</i></p>
+                        Les puedo decir que me ha cambiado mi vida por completo ya que el lente es súper cómodo y no se siente a pesar de mi córnea deforme y veo excelentemente, se ha adaptado muy bien gracias a su excelente trabajo y atención del doctor, doy gracias a Dios por estar mucho mejor y lograr ver todo lo que ya no podía percibir."</i></p>
                     </div>
                     <div className="column is-4 has-text-centered">
                       <div className="testimonial-img-wrapper">
@@ -180,7 +180,7 @@ export const IndexPageTemplate = ({
                           <img src={testimonial3} alt="#"></img>
                         </div>
                         <h3 style={{color: "#D886F7"}} className="is-size-2">Alberto</h3>
-                        <p className="is-size-5 has-text-weight-light"><i>"Tengo problema en mi vista a causa del queratocono, anteriormente ya había visitado otros doctores pero no cumplían con mi espectativa de mejorar mi visión, hasta que llegue hace tres años con el Doctor Alejandro y fue el quien me realizó estudios completos para identificar que tipo de lente de contacto requería, y hasta el momento estoy muy contento ya que mejoro muchísimo mi visión y mi calidad de vida."</i></p>
+                        <p className="is-size-5 has-text-weight-light"><i>"Tengo problema en mi vista a causa del queratocono, anteriormente ya había visitado otros doctores pero no cumplían con mi expectativa de mejorar mi visión, hasta que llegué hace tres años con el Doctor Alejandro y fue él quien me realizó estudios completos para identificar qué tipo de lente de contacto requería, y hasta el momento estoy muy contento ya que mejoro muchísimo mi visión y mi calidad de vida."</i></p>
                     </div>
                   </div>
 
