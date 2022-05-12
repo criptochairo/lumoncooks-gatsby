@@ -9,6 +9,7 @@ import products1 from "../img/products1.jpg";
 import products2 from "../img/products2.jpeg";
 import products3 from "../img/products3.jpeg";
 import products4 from "../img/products4.jpg";
+import whatsapp from "../img/whatsapp.png";
 
 
 // eslint-disable-next-line
@@ -72,7 +73,14 @@ export const ProductPageTemplate = ({
                 </div>
               </div>
             </div> */}
-            <div className="columns"> 
+            <div className="columns">
+                  <Link className="btn is-size-3" 
+                    id="whatsapp-sidebutton" 
+                    to="https://wa.me/525563327093"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <img src={whatsapp} alt="#" />
+                  </Link> 
                   <div className="column is 6 has-text-justified">
                     <h2 style={{color: "#9155A7"}} className="is-size-2" >Lentes Esclerales</h2>
                     <h3 style={{color: "#9155A7"}} className="is-size-4 has-text-weight-light">Lentes de contacto esclerales precio México</h3>

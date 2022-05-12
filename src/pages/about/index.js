@@ -1,8 +1,10 @@
 import * as React from "react";
+import { Link } from "gatsby";
 
 import Layout from "../../components/Layout";
 import Alex1 from "../../img/alex.jpg";
 import Alex2 from "../../img/alex.jpeg";
+import whatsapp from "../../img/whatsapp.png";
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -34,6 +36,13 @@ export default class BlogIndexPage extends React.Component {
           <div className="container">
             <div className="content">
               <div className="columns"> 
+                  <Link className="btn is-size-3" 
+                    id="whatsapp-sidebutton" 
+                    to="https://wa.me/525563327093"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <img src={whatsapp} alt="#" />
+                  </Link> 
                   <div className="column is 6 has-text-justified">
                     <h2 style={{color: "#58b48d"}} className="is-size-2" >Alejandro Rodríguez Mercado</h2>
                     <h3 className="is-size-3">Contactólogo especialista en queratocono</h3>

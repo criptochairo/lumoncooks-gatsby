@@ -69,7 +69,7 @@ const Footer = class extends React.Component {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="facebook" href="tel:525563327093">
+                <a title="phone-number" href="tel:5563327093">
                   <img
                     src={phone}
                     alt="Phone"

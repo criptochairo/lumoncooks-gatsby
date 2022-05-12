@@ -17,6 +17,7 @@ import testimonial1 from "../img/testimonial1.jpeg";
 import testimonial2 from "../img/testimonial2.jpeg";
 import testimonial3 from "../img/testimonial3.jpeg";
 import map from "../img/map.png";
+import whatsapp from "../img/whatsapp.png";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -41,6 +42,13 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   
                   <div className="columns">
+                  <Link className="btn is-size-3" 
+                    id="whatsapp-sidebutton" 
+                    to="https://wa.me/525563327093"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <img src={whatsapp} alt="#" />
+                  </Link>
                     <div className="column is-6 has-text-left is-size-4 is-size-5-mobile">
                       <h1 className="title has-text-centered" style={{padding: "10px"}}>Contáctanos</h1>
                     </div>
