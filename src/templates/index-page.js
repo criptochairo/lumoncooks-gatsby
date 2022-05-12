@@ -45,7 +45,7 @@ export const IndexPageTemplate = ({
                       <h1 className="title has-text-centered" style={{padding: "10px"}}>Contáctanos</h1>
                     </div>
                     <div className="column is-8 has-text-centered is-size-1">
-                      <Link className="btn is-size-3" href="tel:525563327093" >
+                      <Link className="btn is-size-3" href="tel:5563327093" >
                         Llamar
                       </Link>
                     </div>

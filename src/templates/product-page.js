@@ -81,7 +81,7 @@ export const ProductPageTemplate = ({
                     <strong>El precio de cada lente depende del caso específico.</strong> Cosas que pueden influir en el costo son: el tipo de problema, ojo seco, uso de computadora, cirugías glaucoma, entre otras.</p>
                     <br /><br />
                     <div className="column is 6 has-text-centered">
-                      <Link className="btn is-size-3" href="tel:525563327093" >
+                      <Link className="btn is-size-3" href="tel:5563327093" >
                           Llamar
                       </Link>
                     </div>
@@ -106,7 +106,7 @@ export const ProductPageTemplate = ({
                     También se indican en casos de trasplantes de córnea, degeneraciones marginales, cirugías de graduación fallidas o en casos de ojo seco, miopía, hipermetropía, astigmatismo y vista cansada.
                     </p>
                     <div className="column is 6 has-text-centered">
-                      <Link className="btn is-size-3" href="tel:525563327093" >
+                      <Link className="btn is-size-3" href="tel:5563327093" >
                           Llamar
                       </Link>
                     </div>
@@ -123,7 +123,7 @@ export const ProductPageTemplate = ({
                     Para información detallada, con gusto le atenderemos en los teléfonos de contacto o puede dejarnos un mensaje en <Link to="/contact">este formato</Link>.
                     </p>
                     <div className="column is 6 has-text-centered">
-                    <Link className="btn is-size-3" href="tel:525563327093" >
+                    <Link className="btn is-size-3" href="tel:5563327093" >
                         Llamar
                     </Link>
                     </div>
@@ -150,7 +150,7 @@ export const ProductPageTemplate = ({
                     Si ya es usuario de lentes de esclerales y tiene alguno de estos problemas, u otro no mencionado, con gusto le podemos brindar asesoría en los teléfonos de contacto. o a través de mensajes en el chat.
                     </p>
                     <div className="column is 6 has-text-centered">
-                    <Link className="btn is-size-3" href="tel:525563327093" >
+                    <Link className="btn is-size-3" href="tel:5563327093" >
                         Llamar
                     </Link>
                     </div>

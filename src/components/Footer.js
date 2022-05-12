@@ -59,7 +59,10 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="whatsapp" 
+                href="https://wa.me/525563327093"
+                target="_blank"
+                rel="noopener noreferrer">
                   <img
                     src={whatsapp}
                     alt="Whatsapp"
@@ -80,7 +83,7 @@ const Footer = class extends React.Component {
               <div className="column is-12 has-text-centered is-size-6">
                 Estamos ubicados en <address>Calle Antigua Taxqueña #148, Col. Parque San Andrés. Coyoacán. CDMX</address><br />
                 <span>Teléfono</span><br />
-                <a href="tel:525563327093">55 63 32 70 93</a><br /><br />
+                <a href="tel:5563327093">55 63 32 70 93</a><br /><br />
                 
                 © {new Date().getFullYear()}, Built with
                 {` `}

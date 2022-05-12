@@ -97,7 +97,7 @@ const Navbar = class extends React.Component {
               </a>
               <a
                 className="navbar-item"
-                href="tel:525563327093"
+                href="tel:5563327093"
                 target="_blank"
                 rel="noopener noreferrer"
               >
