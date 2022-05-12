@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
-import Pricing from "../components/Pricing";
 import FullWidthImage from "../components/FullWidthImage";
 import { Link } from "gatsby";
 import products1 from "../img/products1.jpg";
@@ -24,7 +23,6 @@ export const ProductPageTemplate = ({
   pricing,
 }) => {
   const heroImage = getImage(image) || image;
-  const fullWidthImage = getImage(fullImage) || fullImage;
 
   return (
     <div className="content">

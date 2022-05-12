@@ -83,34 +83,38 @@ export const IndexPageTemplate = ({
 
                   <div className="columns">
                     <div className="column is-3 has-text-centered">
-                      <div className="content has-text-centered">
-                      <div className="ref-container">
+                      <div className="ref-container content has-text-centered">
+                      <div className="">
                         <img src={ref1} alt="#" className="column is-12" />
-                      </div>
                         <h3 style={{color: "#58b48d"}}>Congresos</h3>
                         <p className="is-size-5">Exposición en congresos nacionales e internacionales.</p>
                       </div>
+                        
+                      </div>
                     </div>
-                    <div className="column is-3 has-text-centered" >
-                      <div className="ref-container">
+                    <div className="ref-container column is-3 has-text-centered" >
+                      <div className="">
                         <img src={ref2} alt="#" className="column is-12" />
+                        <h3 style={{color: "#58b48d"}}>Artículos Científicos</h3>
+                        <p className="is-size-5">Publicación de artículos científicos y de divulgación.</p>
                       </div>
-                      <h3 style={{color: "#58b48d"}}>Artículos Científicos</h3>
-                      <p className="is-size-5">Publicación de artículos científicos y de divulgación.</p>
+                      
                     </div>
-                    <div className="column is-3 has-text-centered" >
-                      <div className="ref-container">
+                    <div className="ref-container column is-3 has-text-centered" >
+                      <div className="">
                         <img src={ref3} alt="#" className="column is-12" />
+                        <h3 style={{color: "#58b48d"}}>Scleral Lens Education Society</h3>
+                        <p className="is-size-5">Miembro de la sociedad internacional de lentes de contacto esclerales.</p>
                       </div>
-                      <h3 style={{color: "#58b48d"}}>Scleral Lens Education Society</h3>
-                      <p className="is-size-5">Miembro de la sociedad internacional de lentes de contacto esclerales.</p>
+                      
                     </div>
-                    <div className="column is-3 has-text-centered" >
-                    <div className="ref-container">
+                    <div className="ref-container column is-3 has-text-centered" >
+                    <div className="">
                         <img src={ref4} alt="#" className="column is-12" />
+                        <h3 style={{color: "#58b48d"}}>Miembro de "Australian College of Optometry"</h3>
+                        <p className="is-size-5">Certificado en lentes de contacto avanzados.</p>
                       </div>
-                      <h3 style={{color: "#58b48d"}}>Miembro de "Australian College of Optometry"</h3>
-                      <p className="is-size-5">Certificado en lentes de contacto avanzados.</p>
+                      
                     </div>
                   </div>
 
