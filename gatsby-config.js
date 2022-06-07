@@ -50,7 +50,7 @@ module.exports = {
         // This object gets passed directly to the gtag config command
         // This config will be shared across all trackingIds
         gtagConfig: {
-          optimize_id: "OPT_CONTAINER_ID",
+          optimize_id: "GTM-W54NFBS",
           anonymize_ip: true,
           cookie_expires: 0,
         },
