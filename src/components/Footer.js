@@ -51,6 +51,7 @@ const Footer = class extends React.Component {
                         href="/admin/"
                         target="_blank"
                         rel="noopener noreferrer"
+                        style={{display: "none"}}
                       >
                         Admin
                       </a>

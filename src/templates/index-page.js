@@ -34,7 +34,7 @@ export const IndexPageTemplate = ({
   return (
     <div>
       <FullWidthImage img={heroImage} title="Consultorio de Especialidades Visuales" subheading="Ver bien. Sentirse bien. Verse bien."/>
-      <section className="section section--gradient">
+      <section className="section section--gradient big-container">
         <div className="container">
           <div className="section">
             <div className="columns">
