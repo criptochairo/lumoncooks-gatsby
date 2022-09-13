@@ -1,5 +1,5 @@
 import * as React from "react";
-
+import Navbar from "../../components/Navbar";
 import Layout from "../../components/Layout";
 import BlogRoll from "../../components/BlogRoll";
 
@@ -7,23 +7,25 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
+        <Navbar />
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/watercolor-blue.jpg')`,
+            backgroundImage: `url('/img/wok.jpg')`,
             height: "500px",
             objectFit: "contain",
+            boxShadow: "2px 2px 10px black"
           }}
         >
           <h1
             className="has-text-weight-bold is-size-1"
             style={{
-              boxShadow: "0.5rem 0 0 rgba(142, 70, 255, 0.7), -0.5rem 0 0 rgba(142, 70, 255, 0.7)",
-              backgroundColor: "rgba(142, 70, 255, 0.7)",
               color: "white",
               padding: "0.25em",
               borderRadius: ".25rem",
-              fontSize: "3em",
+              fontSize: "3.5em",
+              textShadow: "1px 1px 5px black",
+              fontFamily: "Euphoria Script"
             }}
           >
             Últimas recetas

@@ -33,20 +33,16 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="columns">
                     <div className="column is-12">
-                      <img src={cooker} alt="#" id="header-img" />
+                      
                       <h3 className="title is-size-3" style={{fontFamily: "Abril Fatface"}}>
                         {heading}
                       </h3>
+                      
                       <p className="is-size-5">
-                        Bienvenidos a nuestro blog de cocina. <Link to="/recetas" className="linkintext">Aquí</Link> pueden ver una lista de todas nuestras recetas y experiencias. Si quieren leer un poco más sobre nosotros, hagan click <Link to="/contact">aquí</Link>. También pueden buscar en las recetas por <Link to="/tags">categoría</Link>. Finalmente, si quieren enviarnos una receta, comentarios o platicar, nos pueden buscar en nuestro <a href="https://www.instagram.com/lumoncooks/" target="_blank" rel="noopener noreferrer">Instagram</a> o en la página de <Link to="/contact">contacto</Link>. 
+                        Bienvenidos a nuestro blog de cocina. <Link to="/recetas" className="linkintext">Aquí</Link> pueden ver una lista de todas nuestras recetas y buscar por categoría. Si quieren leer un poco más sobre nosotros, hagan click <Link to="/nosotros">aquí</Link>. Finalmente, si quieren enviarnos una receta, comentarios o platicar, nos pueden buscar en nuestro <a href="https://www.instagram.com/lumoncooks/" target="_blank" rel="noopener noreferrer">Instagram</a> o en la página de <Link to="/contacto">contacto</Link>. 
                       </p>
-                      {/* <p className="is-size-5">
-                      Somos Luis y Montse, una pareja joven originarios de la Ciudad de México. Desde chicos, nos fascinó la cocina en casa y el experimentar con nuevas recetas. No somos profesionales, pero sí amateurs entusiasmados por aprender y compartir con todos.
-                      <br /><br />
-                      Creamos este blog de cocina para poder compartir algunas de nuestras recetas favoritas, conservar recetas tradicionales de nuestras familias y guardar cualquier nueva receta que encontremos y probemos.
-                      <br /><br />
-                      Esperamos que les gusten las recetas y si tienen cualquier duda o comentario no duden en ponerse en contacto con nosotros. Nos pueden escribir en la página de <Link to="/contact">contacto</Link> o, si nos cononcemos, nos pueden escribir por WhatsApp.  
-                      </p> */}
+                      <br />
+                      <img src={cooker} alt="#" id="header-img" />
                     </div>
                   </div>
                   <br />
