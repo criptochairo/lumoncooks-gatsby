@@ -1,9 +1,9 @@
 module.exports = {  
   siteMetadata: {
-    title: "Consultorio de Especialidades Visuales",
+    title: "LuMon Cooks",
     description:
-      "Lentes esclerales CDMX. Lentes de contacto esclerales. Examen para la vista.",
-    siteUrl: `https://especialidadesvisuales.com/`,
+      "Blog de cocina para Luis y Montse",
+    siteUrl: `https://lumoncooks.com/`,
   },
   plugins: [
     "gatsby-plugin-react-helmet",

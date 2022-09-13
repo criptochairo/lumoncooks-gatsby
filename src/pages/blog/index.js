@@ -26,7 +26,7 @@ export default class BlogIndexPage extends React.Component {
               fontSize: "3em",
             }}
           >
-            Artículos Recientes
+            Últimas recetas
           </h1>
         </div>
         <section className="section">

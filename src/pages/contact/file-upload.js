@@ -46,7 +46,7 @@ export default class Contact extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>File Upload</h1>
+              <h1>Subir archivos</h1>
               <form
                 name="file-upload"
                 method="post"
@@ -65,7 +65,7 @@ export default class Contact extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={"name"}>
-                    Your name
+                    Nombre
                   </label>
                   <div className="control">
                     <input
@@ -88,14 +88,14 @@ export default class Contact extends React.Component {
                         onChange={this.handleAttachment}
                       />
                       <span className="file-cta">
-                        <span className="file-label">Choose a file…</span>
+                        <span className="file-label">Elegir un archivo…</span>
                       </span>
                     </label>
                   </div>
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Enviar
                   </button>
                 </div>
               </form>

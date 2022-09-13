@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { GatsbyImage } from "gatsby-plugin-image";
+import tools from '../img/chef-hat.png';
 
 export default function FullWidthImage(props) {
   const {
@@ -12,6 +13,7 @@ export default function FullWidthImage(props) {
   } = props;
 
   return (
+    <>
     <React.Fragment>
       <div
         className="margin-top-0"
@@ -45,7 +47,7 @@ export default function FullWidthImage(props) {
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
-              maxHeight: "500px",
+              maxHeight: "900px",
             }}
             layout="fullWidth"
             // You can optionally force an aspect ratio for the generated image
@@ -66,18 +68,21 @@ export default function FullWidthImage(props) {
               display: "grid",
             }}
           >
-            {/* Any content here will be centered in the component */}
+            {<img src={tools} alt="#" style={{
+              height: "auto",
+              width: "7rem"
+            }}/>}
             {title && (
               <h1
                 className="has-text-weight-bold"
                 style={{
-                  boxShadow: "0.5rem 0 0 rgba(142, 70, 255, 0.7), -0.5rem 0 0 rgba(142, 70, 255, 0.7)",
-                  backgroundColor: "rgba(142, 70, 255, 0.7)",
+                  boxShadow: "0.5rem 0 0 rgba(142, 70, 255, 0), -0.5rem 0 0 rgba(142, 70, 255, 0)",
+                  backgroundColor: "rgba(142, 70, 255, 0)",
                   color: "white",
                   lineHeight: "1",
-                  padding: "0.25em",
-                  fontSize: "3em",
-                  borderRadius: ".25rem"
+                  padding: "0em",
+                  fontSize: "4.5em",
+                  fontFamily: "Euphoria Script"
                 }}
               >
                 {title}
@@ -104,6 +109,7 @@ export default function FullWidthImage(props) {
         )}
       </div>
     </React.Fragment>
+    </>
   );
 }
 

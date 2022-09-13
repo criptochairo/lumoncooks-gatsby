@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
-title: Consultorio de Especialidades Visuales
-image: /img/contact-lens-cover.jpg
-heading: Consultorio de optometría avanzada
+title: LuMon Cooks
+image: /img/cover.jpg
+heading: ¡Hola!
 subheading:  
-    Consultorio de Especialidades Visuales está enfocado en la atención personalizada de cualquier caso visual. 
-    Contamos con un equipo multidisciplinario que le dedicará el tiempo necesario a cada situación.
-    Los pilares de nuestro trabajo son honestidad y calidad. Cada proceso que se realiza es ampliamente explicado, ofreciendo una perspectiva global de todos los recursos utilizados.
+    Somos Luis y Montse, una pareja joven originarios de la Ciudad de México. Desde chicos, nos fascinó la cocina en casa y el experimentar con nuevas recetas. No somos profesionales, pero sí amateurs entusiasmados por aprender y compartir con todos.
+    Creamos este blog de cocina para poder compartir algunas de nuestras recetas favoritas, conservar recetas tradicionales de nuestras familias y guardar cualquier nueva receta que encontremos y probemos.
+    Esperamos que les gusten las recetas y si tienen cualquier duda o comentario no duden en ponerse en contacto con nosotros. Nos pueden escribir en la página de [contacto](/contact) o, si nos cononcemos, nos pueden escribir por WhatsApp.
 mainpitch:
   title: Contáctanos
   description: >
@@ -15,9 +15,11 @@ mainpitch:
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 description: >
-  Consultorio de Especialidades Visuales está enfocado en la atención personalizada de cualquier caso visual. Contamos con un equipo multidisciplinario que le dedicará el tiempo necesario a cada situación.
+  Somos Luis y Montse, una pareja joven originarios de la Ciudad de México. Desde chicos, nos fascinó la cocina en casa y el experimentar con nuevas recetas. No somos profesionales, pero sí amateurs entusiasmados por aprender y compartir con todos.
 
-  Los pilares de nuestro trabajo son honestidad y calidad. Cada proceso que se realiza es ampliamente explicado, ofreciendo una perspectiva global de todos los recursos utilizados.
+  Creamos este blog de cocina para poder compartir algunas de nuestras recetas favoritas, conservar recetas tradicionales de nuestras familias y guardar cualquier nueva receta que encontremos y probemos.
+
+  Esperamos que les gusten las recetas y si tienen cualquier duda o comentario no duden en ponerse en contacto con nosotros. Nos pueden escribir en la página de [contacto](/contact) o, si nos cononcemos, nos pueden escribir por WhatsApp.
 intro:
   title: Beneficios de atenderse con nosotros
   blurbs:

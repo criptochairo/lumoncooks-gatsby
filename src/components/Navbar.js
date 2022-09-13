@@ -1,8 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
-import whatsapp from "../img/whatsapp.png";
-import phone from "../img/phone.png";
-import logo from "../img/glasses.jpg";
+import instagram from "../img/instagram.png";
+import logo from "../img/hot-pot.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -36,15 +35,14 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent"
+        className="navbar"
         role="navigation"
         aria-label="main-navigation"
-        style={{ height: "4em" }}
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" />
+            <Link to="/" className="navbar-item" title="Logo" style={{height: "auto", width: "75px" }}>
+              <img src={logo} alt="#" id="logo" style={{maxHeight: "75px", width: "75px" }} />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -68,17 +66,14 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/">
                 Home
               </Link>
+              <Link className="navbar-item" to="/blog" >
+                Recetas
+              </Link>
               <Link className="navbar-item" to="/about">
                 Nosotros
               </Link>
-              <Link className="navbar-item" to="/products">
-                Lentes Esclerales
-              </Link>
               <Link className="navbar-item" to="/contact">
                 Contacto
-              </Link>
-              <Link className="navbar-item" to="/blog" >
-                Blog
               </Link>
               <Link className="navbar-item" to="/contact/examples" style={{display: "none"}} >
                 Form Examples
@@ -87,22 +82,12 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://wa.me/525563327093"
+                href="https://www.instagram.com/lumoncooks/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span className="icon">
-                  <img src={whatsapp} alt="Whatsapp" />
-                </span>
-              </a>
-              <a
-                className="navbar-item"
-                href="tel:5563327093"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={phone} alt="Phone" />
+                <span className="icon" style={{maxHeight: "35px", width: "35px"}}>
+                  <img src={instagram} alt="Instagram" style={{maxHeight: "35px", width: "35px"}} />
                 </span>
               </a>
             </div>
