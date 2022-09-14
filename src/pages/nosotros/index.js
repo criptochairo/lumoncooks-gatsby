@@ -48,7 +48,7 @@ export default class BlogIndexPage extends React.Component {
                       <br /><br />
                       Creamos este blog de cocina para poder compartir algunas de nuestras recetas favoritas, conservar recetas tradicionales de nuestras familias y guardar cualquier nueva receta que encontremos y probemos.
                       <br /><br />
-                      Esperamos que les gusten las recetas y si tienen cualquier duda o comentario no duden en ponerse en contacto con nosotros. Nos pueden escribir en la página de <Link to="/contact">contacto</Link> o, si nos cononcemos, nos pueden escribir por WhatsApp.  
+                      Esperamos que les gusten las recetas y si tienen cualquier duda o comentario no duden en ponerse en contacto con nosotros. Nos pueden escribir en la página de <Link to="/contacto">contacto</Link> o, si nos cononcemos, nos pueden escribir por WhatsApp.  
                     </p>
                     <br />
                   </div>            

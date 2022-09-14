@@ -5,19 +5,14 @@ import { getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout";
 import FullWidthImage from "../components/FullWidthImage";
-import BlogRoll from "../components/BlogRoll";
+import ShortBlogRoll from "../components/ShortBlogRoll";
 import Navbar from "../components/Navbar";
 import cooker from "../img/cooker.png";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
   image,
-  title,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-  intro,
+  heading
 }) => {
   const heroImage = getImage(image) || image;
 
@@ -49,14 +44,11 @@ export const IndexPageTemplate = ({
                   <br />
                   <div className="column is-12">
                     <h3 className="title is-size-3" style={{fontFamily: "Abril Fatface"}}>
-                      Nuestras recetas
+                      Nuestras mejores recetas
                     </h3>
                   </div>
 
-                  <BlogRoll />
-
-                  <br />
-                  <br />
+                  <ShortBlogRoll />
 
                   <div className="column is-12">
                     <h3 className="title is-size-3" style={{fontFamily: "Abril Fatface"}}>
@@ -65,8 +57,7 @@ export const IndexPageTemplate = ({
                     <Link to="/tags/chilaquiles" className="btn">Comida Mexicana</Link>
                     <Link to="/tags/chilaquiles" className="btn">Chilaquiles</Link>
                     <Link to="/tags/chilaquiles" className="btn">Sopas</Link>
-                  </div>
-                  
+                  </div> 
                 </div>
               </div>
             </div>

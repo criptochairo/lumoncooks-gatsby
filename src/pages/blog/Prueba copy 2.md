@@ -1,14 +1,12 @@
 ---
 templateKey: blog-post
-title: Chilaquiles LuMon
-date: 2020-11-01T15:04:10.000Z
-featuredpost: true
+title: Pastel
+date: 2022-11-01T15:04:10.000Z
+featuredpost: false
 description: Las lágrimas son un componente esencial para nuestra visión, son el primer punto de contacto con la luz que entra a los ojos. Sin embargo, resulta común vivir con uno o varios síntomas asociados con padecimientos lagrimales y estar tan acostumbrados a ellos que los pasamos por alto. Cualquier problema de este tipo afectará nuestra visión y la manera en la que percibimos el mundo. En este artículo, te hablaremos sobre qué son las lágrimas, también llamadas películas lagrimales, de qué están hechas y cómo podrías identificar si vives con algún problema en ellas.
 tags:
-  - lágrima
-  - ojo seco
-  - resequedad
-  - resequedad ocular
+  - Comida Mexicana
+  - Chilaquiles
 ---
 
 ¿Te ha pasado que sientes que nadie merece tus lágrimas? O tal vez has imaginado como sería tu vida sin lágrimas, quizá porque el viento se las llevó o porque fueron derramadas en la sequedad o aspereza.
