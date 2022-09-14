@@ -47,7 +47,7 @@ const TagsPage = ({
             className="column is-10 is-offset-1"
             style={{ marginBottom: "1rem" }}
           >
-            <h1 className="title is-size-2 is-bold-light">Categorías</h1>
+            <h1 className="title is-size-2 is-bold-light">Etiquetas & Categorías</h1>
             <ul className="taglist">
               {group.map((tag) => (
                 <li key={tag.fieldValue}>
@@ -66,11 +66,7 @@ const TagsPage = ({
           <BlogRoll />
         </div>
       </div>
-    </section>
-        
-        
-          
-        
+    </section>       
   </Layout>
 );
 

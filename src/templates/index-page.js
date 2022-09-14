@@ -44,7 +44,7 @@ export const IndexPageTemplate = ({
                   <br />
                   <div className="column is-12">
                     <h3 className="title is-size-3" style={{fontFamily: "Abril Fatface"}}>
-                      Nuestras mejores recetas
+                      Nuestra selección personal
                     </h3>
                   </div>
 
