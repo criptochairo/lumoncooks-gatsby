@@ -30,7 +30,7 @@ export const BlogPostTemplate = ({
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
+                <h4>Etiquetas</h4>
                 <ul className="taglist">
                   {tags.map((tag) => (
                     <li key={tag + `tag`}>
@@ -40,6 +40,8 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+            <br />
+            <div className="btn"><Link to="/recetas">Regresar a recetas</Link></div>
           </div>
         </div>
       </div>

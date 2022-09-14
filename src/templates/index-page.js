@@ -54,9 +54,8 @@ export const IndexPageTemplate = ({
                     <h3 className="title is-size-3" style={{fontFamily: "Abril Fatface"}}>
                       Categorías
                     </h3>
-                    <Link to="/tags/chilaquiles" className="btn">Comida Mexicana</Link>
-                    <Link to="/tags/chilaquiles" className="btn">Chilaquiles</Link>
-                    <Link to="/tags/chilaquiles" className="btn">Sopas</Link>
+                    <Link to="/tags/recetas-favoritas" className="btn">Recetas Favoritas</Link>
+                    <Link to="/tags/comida-mexicana" className="btn">Comida Mexicana</Link>
                   </div> 
                 </div>
               </div>
