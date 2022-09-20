@@ -27,7 +27,6 @@ Dicho lo anterior, estas han sido, por mucho, las mejores galletas con chispas d
 | Azúcar blanco granulado | ½ taza |
 | Sal fina | 1 cucharada pequeña |
 | Huevos | 2 pzas |
-| Queso oaxaca | 1/2 taza |
 | Extracto de vainilla | 2 cucharadas pequeñas |
 | Chispas de chocolate | ½ taza para la mezcla y ½ taza por separado |
 
