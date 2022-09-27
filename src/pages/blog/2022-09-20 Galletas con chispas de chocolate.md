@@ -10,7 +10,7 @@ tags:
   - Galletas
 ---
 
-![Galletas con chispas de chocolate.](https://img.freepik.com/free-photo/wide-selective-closeup-shot-stack-baked-chocolate-cookies_181624-3607.jpg?w=1800&t=st=1663690235~exp=1663690835~hmac=1de157be0ca99a8354d9b3e93137f1a7fc70414f02d4e58bf6928860547c4732)
+![Galletas con chispas de chocolate.](/img/galletas.jpg)
 
 Lo primero que deben saber de esta receta es que no es nuestra. Si quieren leer la receta original en inglés pueden hacer click [aquí](https://hostthetoast.com/best-chewy-cafe-style-chocolate-chip-cookies/).
 Dicho lo anterior, estas han sido, por mucho, las mejores galletas con chispas de chocolate que hemos probado. Originalmente nos encontramos con esta receta buscando cosas deliciosas para hornear un sábado cuando la fortuna nos sonrió y puso esta receta en nuestro camino.

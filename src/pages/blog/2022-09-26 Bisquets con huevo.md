@@ -47,4 +47,5 @@ Este delicioso desayuno es una modificación de una receta de la familia de Luis
 ## Notas
 
 - En sustitución de los bisquets se pueden usar bagels, pero en nuestra experiencia es más fácil y barato encontrar bisquets salados de buena calidad en panaderías locales. También pueden sustituir con cualquier tipo de pan salado que les guste.
+- Para disfrutar de las exquisiteces de la pequeña burguesía, pueden cambiar la mantequilla por queso crema y el huevo por salmón ahumado con alcaparras, aceite de oliva y jugo de limón.
 - La mantequilla da un muy buen sabor, pero no es recomendada si se pretende que el desayuno sea bajo en grasa y calorías. Cuiden esas arterias chavos, los treinta se acercan...

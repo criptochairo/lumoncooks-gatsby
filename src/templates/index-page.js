@@ -67,6 +67,7 @@ export const IndexPageTemplate = ({
                     <Link to="/tags/recetas-favoritas" className="btn">Recetas Favoritas</Link>
                     <Link to="/tags/comida-mexicana" className="btn">Comida Mexicana</Link>
                     <Link to="/tags/postres" className="btn">Postres</Link>
+                    <Link to="/tags/desayunos" className="btn">Postres</Link>
                   </div> 
                 </div>
               </div>
