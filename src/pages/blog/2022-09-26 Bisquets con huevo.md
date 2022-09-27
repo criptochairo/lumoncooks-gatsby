@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Bisquets con huevo
-date: 2022-09-20
-featuredpost: true
+date: 2022-09-26
+featuredpost: false
 description: Un desayuno elegante y fácil de hacer. 
 tags:
   - Desayunos

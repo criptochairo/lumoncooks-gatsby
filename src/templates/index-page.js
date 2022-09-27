@@ -2,10 +2,10 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
-
 import Layout from "../components/Layout";
 import FullWidthImage from "../components/FullWidthImage";
 import ShortBlogRoll from "../components/ShortBlogRoll";
+import NoFeaturedBlogRoll from "../components/NoFeaturedBlogRoll";
 import Navbar from "../components/Navbar";
 import cooker from "../img/cooker.png";
 
@@ -42,6 +42,16 @@ export const IndexPageTemplate = ({
                   </div>
                   <br />
                   <br />
+                  <div className="column is-12">
+                    <h3 className="title is-size-3" style={{fontFamily: "Abril Fatface"}}>
+                      Las recetas más nuevas
+                    </h3>
+                  </div>
+
+                  <NoFeaturedBlogRoll />
+
+                  <br />
+
                   <div className="column is-12">
                     <h3 className="title is-size-3" style={{fontFamily: "Abril Fatface"}}>
                       Nuestra selección personal
