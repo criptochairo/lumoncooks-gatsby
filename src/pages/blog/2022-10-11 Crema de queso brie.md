@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Crema de queso brie en bowl de pan
-date: 2022-10-10
+date: 2022-10-11
 featuredpost: true
 description: Una receta ideal para comidas especiales y celebraciones en pareja. No se arrepentirán de probarla.
 tags:
@@ -50,7 +50,7 @@ Esta crema es deliciosa por sí sola, pero para tener una experiencia verdaderam
 
 ## Instrucciones para el pan
 
-- Después de seguir los **primeros seis pasos** de [nuestra receta](https://www.lumoncooks.com/blog/2022-10-10%20Pan%20Casero/) y haber inflado la masa durante una hora por primera vez, deben partirla en dos partes iguales y amasarlas hasta tener dos esferas del mismo tamaño.
+- Después de seguir los **primeros seis pasos** de [nuestra receta](https://www.lumoncooks.com/blog/2022-10-10%20Pan%20Casero/) y haber dejado la masa inflarse durante una hora por primera vez, deben partirla en dos partes iguales y amasarlas doblándolas hacia su propio centro hasta tener dos esferas del mismo tamaño - pueden ver cómo hacerlo [aquí](https://youtu.be/nEEd8RsjujA?t=379).
 - Espolvorear harina encima de las esferas y curbrir directamente con un trapo limpio. Dejar reposar **1 hora**.
 - Cuando falten 15 minutos para terminar de reposar la masa, pre-calentar el horno a 200°C (400°F) con la charola adentro. Una charola caliente ayudará a generar una corteza más gruesa y crujiente, evitando que el bowl se dañe por la crema al momento de servir.
 - Una vez pasada la hora de reposo, sacar la charola del horno y cuidadosamente colocar ambas esferas sobre ella. Se debe dejar una buena separación entre las esferas, pues se van a inflar todavía más en el horno.
