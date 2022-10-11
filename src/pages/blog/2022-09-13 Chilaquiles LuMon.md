@@ -10,7 +10,7 @@ tags:
   - Chilaquiles
 ---
 
-![Chilaquiles LuMon.](https://images.unsplash.com/photo-1640719028782-8230f1bdc42a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+![·](https://images.unsplash.com/photo-1640719028782-8230f1bdc42a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 Nos encanta empezar el día con comida deliciosa hecha en casa. Es por eso que decidimos mezclar recetas familiares hasta llegar a esta creación.
 Para nosotros se volvió algo especial ya que fue el primer desayuno que hicimos cuando Mon se independizó.
