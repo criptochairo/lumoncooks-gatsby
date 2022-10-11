@@ -12,6 +12,10 @@ tags:
 
 Pocas cosas van a cambiar la experiencia de comer en casa en la misma medida que hornear su propio pan. Sin embargo, entendemos que esto es algo para los que no todos tienen tiempo o disposición, mucho menos todas las mañanas. Es por esto que encontramos y adecuamos esta receta de pan de levadura que pueden hornear desde cero una vez por semana para sándwiches, pan francés o cualquier otra cosa que se les ocurra. Pueden encontrar la receta original haciendo click [aquí](https://www.youtube.com/watch?v=nEEd8RsjujA&t=648s&ab_channel=DeepSouthTexas), pero tengan en mente que esa es para dos hogazas grandes. La versión que ven aquí es para una sola hogaza y tiene un par de adiciones para darle mejor sabor y una textura más suave.
 
+## Tiempo de preparación
+
+2.5 horas
+
 ## Ingredientes
 
 |  |  |
@@ -45,7 +49,7 @@ Pocas cosas van a cambiar la experiencia de comer en casa en la misma medida que
 - Amasar durante **8 minutos** (hora de trabajar esos tríceps) para terminar con una masa en forma de bola y regresar al bowl grande. Espolvorear un poco de harina sobre la masa y luego tapar el bowl con un trapo de cocina limpio. Dejar la masa reposar en un lugar húmedo y obscuro durante **una hora**.
 - La masa se debería de haber levantado aproximadamente al doble de su tamaño original. Para pre-formar la hogaza, sacar la masa, aplanarla suavemente con las manos (no rodillo) y doblarla sobre sí misma, como un taco o quesadilla, para después enrollarla como si fuera un rollo de sushi - sé que mis referencias tal vez sean confusas, pero pueden ver instrucciones visuales para este paso [aquí.](https://youtu.be/nEEd8RsjujA?t=584) La forma final de la masa en este paso debe adecuarse a su molde sin que haya excedente en los extremos de la hogaza. Asegúrense de engrasar ligeramente su molde con mantequilla o aceite y espolvorear harina antes de probarlo para evitar que la masa se pegue.
 - Introducir la hogaza pre-formada al molde y espolvorear harina encima. Cubrir con un trapo de cocina y dejar que la masa se levante durante **una hora** más. Cuando falten 15 minutos para que la masa termine de levantarse, pre-calentar su horno a 200°C (400°F).
-- (Opcional) Espolvorear la parte superior de la hogaza con avena, ajonjolí, semillas o cualquier otra decoración que los haga felices pero que sea apta para hornear.
+- (Opcional) Dar un brochazo de leche evaporada y espolvorear la parte superior de la hogaza con avena, ajonjolí, semillas o cualquier otra decoración que los haga felices pero que sea apta para hornear. La leche evaporada le da un color más obscuro a la corteza y la endurece un poco más al momento de hornear.
 - Hornear la hogaza de pan durante 25 a 30 minutos. Nosotros siempre checamos la hogaza a los 25 minutos picándola hasta el centro con un palillo de madera o metal largo. Si sale seco, entonces la masa se terminó de hornear y es tiempo de apagar el horno.
 
 ## Notas

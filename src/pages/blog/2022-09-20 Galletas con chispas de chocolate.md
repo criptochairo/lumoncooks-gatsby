@@ -15,6 +15,10 @@ tags:
 Lo primero que deben saber de esta receta es que no es nuestra. Si quieren leer la receta original en inglés pueden hacer click [aquí](https://hostthetoast.com/best-chewy-cafe-style-chocolate-chip-cookies/).
 Dicho lo anterior, estas han sido, por mucho, las mejores galletas con chispas de chocolate que hemos probado. Originalmente nos encontramos con esta receta buscando cosas deliciosas para hornear un sábado cuando la fortuna nos sonrió y puso esta receta en nuestro camino.
 
+## Tiempo de preparación
+
+1.5 horas
+
 ## Ingredientes
 
 |  |  |
@@ -54,6 +58,7 @@ Dicho lo anterior, estas han sido, por mucho, las mejores galletas con chispas d
 ## Notas
 
 - El harina que mejor nos funciona para hornear es Tres Estrellas, pero no es obligatoria.
+- Les recomendamos fuertemente usar chocolate amargo o semiamargo con un alto contenido de cacao para las chispas. Esto genera un contraste increíble con la masa dulce.
 - Es muy importante dejar descansar la masa suficiente tiempo en el refrigerador. Si no lo hacen, las galletas se pueden desmoronar muy fácilmente una vez horneadas.
 - Las galletas saben mejor frescas, así que si las van a compartir con amigos o familia, les recomendamos prepararlas el mismo día.
 - Queremos probar una versión de esta receta con nuez macadamia, cuando lo hagamos subiremos una actualización con nuestros consejos.

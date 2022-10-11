@@ -13,6 +13,10 @@ tags:
 
 Este delicioso desayuno es una modificación de una receta de la familia de Luis. Lo que nos gusta de este desayuno es que tiene varias ventajas: Es bajo en calorías, es fácil de preparar, es rápido y, con un poco de decoración, es una buena opción para impresionar con un desayuno que va más allá de huevitos con jamón sin ser realmente más complicado. Les recomendamos seguir las instrucciones al pie de la letra la primera vez que lo preparen y de ahí experimentar con otros ingredientes que quieran integrar a la receta.
 
+## Tiempo de preparación
+
+15 minutos
+
 ## Ingredientes
 
 |  |  |

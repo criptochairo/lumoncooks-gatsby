@@ -15,6 +15,10 @@ tags:
 Nos encanta empezar el día con comida deliciosa hecha en casa. Es por eso que decidimos mezclar recetas familiares hasta llegar a esta creación.
 Para nosotros se volvió algo especial ya que fue el primer desayuno que hicimos cuando Mon se independizó.
 
+## Tiempo de preparación
+
+15 minutos
+
 ## Ingredientes
 
 |  |  |
