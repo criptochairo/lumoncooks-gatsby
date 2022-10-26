@@ -10,7 +10,7 @@ tags:
 
 ![·](/img/salmon-alfredo.jpg)
 
-Esta pasta es una nueva versión de una receta de la familia de Luis. Es perfecta para reuniones y para alimientar a múltiples personas en una sola sentada. Se combina perfecto con un vino blanco o con agua de fruta fresca. Esta receta alimenta a dos personas.
+Esta pasta es una nueva versión de una receta de la familia de Luis. Es perfecta para reuniones y para alimentar a múltiples personas en una sola sentada. Se combina perfecto con un vino blanco o con agua de fruta fresca. Esta receta alimenta a dos personas.
 
 ## Tiempo de preparación
 
