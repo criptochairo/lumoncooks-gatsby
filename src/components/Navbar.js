@@ -52,6 +52,7 @@ const Navbar = class extends React.Component {
               tabIndex={0}
               onKeyPress={() => this.toggleHamburger()}
               onClick={() => this.toggleHamburger()}
+              id="navbar-burger"
             >
               <span />
               <span />
